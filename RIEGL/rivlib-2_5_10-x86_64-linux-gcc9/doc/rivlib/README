@@ -1,0 +1,12 @@
+This folder contains RiVLib, Riegl's support library for V-Line scanners.
+
+Documentation can be found in subfolder:
+
+doc/rivlib.pdf
+
+Example files can be found in subfolder:
+
+doc/rivlib/examples
+
+For support, please contact: support@riegl.com
+

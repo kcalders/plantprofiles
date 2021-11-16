@@ -1,0 +1,67 @@
+2.5.10 2020-11-05
+    (rs) sync with rivlib
+2.5.9 2020-02-27
+    (rs) sync with rivlib
+2.5.8 2020-01-30
+    (rs) sync with rivlib
+2.5.7 2018-08-22
+    (rs) sync with rivlib
+2.5.6 2018-05-24
+    (rs) sync with rivlib
+2.5.5 2018-05-22
+    (rs) VQ-780i support
+    (rs) channel filter switch for rxp2wfm
+2.5.4 2018-01-11
+    (rs) generic support of scan mechanics
+    (rs) faster now when no waveforms in rxp file
+2.5.3 2017-11-06
+    (rs) synchronized with changes in rivlib
+2.4.0 2016-12-13
+    (rs) fwifc example changed to python 3.x
+    (rs) bugfix for reference time
+2.3.0 2016-03-23
+    (rs) added Qt compatible gcc version
+2.2.0 2016-01-26
+    (rs) python example updated
+2.2.0 2016-01-14
+    (rs) make the python wrapper work on 64 bit
+2.1.0 2015-08-13
+    (rs) fix unexpected slow seek for larger file sizes
+2.0.3 2015-05-19
+    (rs) fix "unknown scan mechanism" for VZ 4000
+2.0.1 2015-02-23
+    (rs) fix unknown scanmech message for VZ400
+1.39 2014-09-11
+    (rs) use rivlib 1.39
+1.38 2014-08-21
+    (rs) use rivlib 1.38
+1.35 2014-04-15
+    (rs) bugfix for VQ820 waveform and higher meas. rate
+1.34 2014-03-25
+    (rs) better timestamps for higher meas rates
+1.33 2013-12-19
+    (rs) cumulative maintainance release
+1.30 2013-10-31
+    (rs) support for VQ820 enhanced compression
+1.29 2013-08-12
+    (rs) progress indicator for rxp2wfm
+    (rs) no error message if rxp has no waveforms in it: don't generate output
+1.28 2013-03-18
+    (rs) wfm files do not need a license manager, so it has been removed
+    (rs) added rxp2wfm tool
+1.27 2012-12-10
+    (rs) fixed a problem with instlic license manager
+1.26 2012-12-06
+    (rs) licensing options added, documentation updated
+    (rs) support for wfm LUT's
+    (rs) bug: seek_time to small time value results in endless loop: fixed
+    (rs) relative sosbl for support of MTA high resolution time
+1.25 2012-06-19
+    (rs) maintainance release
+1.20 2011-08-29
+    (rs) new compressed index format
+1.18 2011-07-11
+    (rs) new package layout
+    (rs) doc updated
+1.17 2011-06-22
+    (rs) Initial release
